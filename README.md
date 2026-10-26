@@ -5,6 +5,12 @@
 - 서버(백엔드) 저장소: `dog-shop-level1-backend`
 - 기획서: [기획서.md](./기획서.md)
 
+## 배포 주소
+
+- 직원 화면: https://dog-shop-level1-frontend.vercel.app
+- 사장님 관리 화면: https://dog-shop-level1-frontend.vercel.app/admin
+- 서버(백엔드): https://dog-shop-level1-backend.onrender.com (확인: `/health`)
+
 ## 화면
 
 | 화면 | 주소 | 하는 일 |
